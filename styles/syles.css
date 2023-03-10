@@ -1,0 +1,19 @@
+H1{
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.444);
+}
+h2{
+    font-family: 'Genos', sans-serif;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.444);
+}
+hr{
+    border-color: rgb(149, 120, 255);
+    border-width: 3px;
+}
+body{
+    background-image: url(/image/gato.webp);
+    background-size: cover; background-attachment: fixed;
+}
